@@ -47,7 +47,8 @@ add optional larger result buttons:
 You can deploy this bot anywhere.
 
 <details><summary>Deploy to Heroku</summary>
-<p>
+<p>https://github.com/prakashnath123/tgmoviebot
+  
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/josprojects/tgmoviebot/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">

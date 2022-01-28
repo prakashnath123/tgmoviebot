@@ -29,7 +29,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `IMDB`: Imdb, the view of information when making True/False.
-* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects/tgmoviebot/issues/1) True/False.
+* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/prakashnath123/tgmoviebot/issues/1) True/False.
 
 ## larger result buttons
 larger results will be better for reading.
@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <p>https://github.com/prakashnath123/tgmoviebot
   
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/josprojects/tgmoviebot/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/prakashnath123/gmoviebot/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
